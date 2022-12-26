@@ -10,7 +10,7 @@ In this project, we will create a table to organize UFO data that is stored as a
 
 In this challange, we'll need to apply your HTML and Bootstrap skills and have an open mind regarding semicolons.
 
-## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+## Results: Use images of the webpage during the filtering process to support your explanation.
 
 On the filter tab of the webpage, we could easily enter any of the criteria we want to filter. The filter allows users to use multiple criterias rather than one! As the 1st picture below, it provides an example that we filtered both date and city.
 

@@ -41,10 +41,10 @@ On the filter tab of the webpage, we could easily enter any of the criteria we w
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 - The summary addresses one drawback of this webpage
- - This webpage is based on a local path link rather than a true website. Thus, we are not able to share it with people. 
- - All filter criterias are based on a specific format and case sensitive.
- - Users are not able to find details, meaning that there are no additional webpage links to this main webpage.
+  - This webpage is based on a local path link rather than a true website. Thus, we are not able to share it with people. 
+  - All filter criterias are based on a specific format and case sensitive.
+  - Users are not able to find details, meaning that there are no additional webpage links to this main webpage.
 - The summary addresses two additional recommendations for further development
- - Change the local based webpage to the internet, allowing people enter this webpage.
- - Add both lower case and upper case for reseach filters allows users to use both letter.
- - Provide additional webpage linking to filter criterias. e.g. we may link the city to the google map which allows users identify the address.
+  - Change the local based webpage to the internet, allowing people enter this webpage.
+  - Add both lower case and upper case for reseach filters allows users to use both letter.
+  - Provide additional webpage linking to filter criterias. e.g. we may link the city to the google map which allows users identify the address.
